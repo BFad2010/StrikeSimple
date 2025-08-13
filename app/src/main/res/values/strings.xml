@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">StrikeSimple</string>
+    <string name="welcome_to_strikesimple">Welcome to StrikeSimple!</string>
+    <string name="start_new_game">START NEW GAME</string>
+    <string name="begin_game">BEGIN GAME</string>
+    <string name="scoring_rules">Scoring Rules</string>
+    <string name="view_more_info">View More Info</string>
+    <string name="add_frame">Add Frame</string>
+    <string name="frame">Frame</string>
+    <string name="score">Score</string>
+    <string name="player">Player</string>
+    <string name="game_in_progress">Game In-Progress \n</string>
+    <string name="finish_game">FINISH GAME</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="game">Game</string>
+    <string name="back">Back</string>
+    <string name="view_game">VIEW GAME</string>
+    <string name="new_game_started">New Game Started!</string>
+    <string name="game_results">Game Results</string>
+    <string name="wins">%1$s Wins! - scored %2$s</string>
+    <string name="save">SAVE</string>
+    <string name="bonus_throw">BONUS THROW</string>
+    <string name="pins">Pins</string>
+    <string name="add_new_frame">Add New Frame</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="add_bonus_throw">Add Bonus Throw</string>
+    <string name="error_showing_game_preview">Error Showing Game Preview.</string>
+</resources>
